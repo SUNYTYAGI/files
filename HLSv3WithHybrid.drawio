@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T10:01:36.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="1pWFSkMTRZqMw93kSf7O" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T10:04:18.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="Wp1hY_NqeU0XeEbS-AGJ" version="14.4.7" type="github">
   <diagram id="vMYTdDhBlaslFHV7eie7" name="Page-1">
     <mxGraphModel dx="782" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -286,8 +286,11 @@
         <mxCell id="Z_p5a08aWznw17Vvp2tg-6" value="2 URL SIGNING&amp;nbsp;&amp;nbsp;&lt;br&gt;P95: 28, P99: 36" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="535" y="-260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z_p5a08aWznw17Vvp2tg-7" value="2&amp;nbsp; FETCH MANIFEST METADATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-240" width="200" height="20" as="geometry" />
+        <mxCell id="Z_p5a08aWznw17Vvp2tg-7" value="2&amp;nbsp; FETCH INDEX MANIFEST METADATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-240" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_p5a08aWznw17Vvp2tg-8" value="3&amp;nbsp; FETCH MEDIA PLAYLIST MANIFEST METADATA (ONLY UNCACHED)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-190" width="410" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
