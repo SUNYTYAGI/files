@@ -3,7 +3,7 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:5,
-https://chunk-gce-us-east1-production.fastly.mux.com/v1/chunk/fVrTJbb8pV4BzC9rg4rw78023Xg2Ocaj402n9GqqCt602SCAKMu02BgHF3zLZehMUL602OGdCA01HoMPxK1vh02zDg9iHDr7eES6CwNJ13RVIy4OWM/0.ts?skid=default&signature=NjBkMThhNzBfMmFhYjIyYjYyNDcyZjY0MTFjYmUxZTBjNjQ3MTQ4MzlhOTA1ZjFhNDY4MTFjNDhhNDU5YWZjZGEzNjg4NjIzMg==
+https://chunk-gce-us-east1-production.fastly.mux.com/v1/chunk_failed/fVrTJbb8pV4BzC9rg4rw78023Xg2Ocaj402n9GqqCt602SCAKMu02BgHF3zLZehMUL602OGdCA01HoMPxK1vh02zDg9iHDr7eES6CwNJ13RVIy4OWM/0.ts?skid=default&signature=NjBkMThhNzBfMmFhYjIyYjYyNDcyZjY0MTFjYmUxZTBjNjQ3MTQ4MzlhOTA1ZjFhNDY4MTFjNDhhNDU5YWZjZGEzNjg4NjIzMg==
 #EXTINF:5,
 https://chunk-gce-us-east1-production.fastly.mux.com/v1/chunk/fVrTJbb8pV4BzC9rg4rw78023Xg2Ocaj402n9GqqCt602SCAKMu02BgHF3zLZehMUL602OGdCA01HoMPxK1vh02zDg9iHDr7eES6CwNJ13RVIy4OWM/1.ts?skid=default&signature=NjBkMThhNzBfNTliNDkzZjcwNGVlM2Y5Yjg5N2MxOTdmZjIwYzI5NjBmMjkyOThjYzI4MzZhZTcwZGNlZTBmMzVhYWMzMDM3Ng==
 #EXTINF:5,
