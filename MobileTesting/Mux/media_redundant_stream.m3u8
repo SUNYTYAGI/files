@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:6
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:5,
+https://chunk-gce-us-east1-production.fastly.mux.com/v1/chunk/fVrTJbb8pV4BzC9rg4rw78023Xg2Ocaj402n9GqqCt602SCAKMu02BgHF3zLZehMUL602OGdCA01HoMPxK1vh02zDg9iHDr7eES6CwNJ13RVIy4OWM/0.ts?skid=default&signature=NjBkMThhNzBfMmFhYjIyYjYyNDcyZjY0MTFjYmUxZTBjNjQ3MTQ4MzlhOTA1ZjFhNDY4MTFjNDhhNDU5YWZjZGEzNjg4NjIzMg==
+#EXTINF:5,
+https://chunk-gce-us-east1-production.fastly.mux.com/v1/chunk/fVrTJbb8pV4BzC9rg4rw78023Xg2Ocaj402n9GqqCt602SCAKMu02BgHF3zLZehMUL602OGdCA01HoMPxK1vh02zDg9iHDr7eES6CwNJ13RVIy4OWM/1.ts?skid=default&signature=NjBkMThhNzBfNTliNDkzZjcwNGVlM2Y5Yjg5N2MxOTdmZjIwYzI5NjBmMjkyOThjYzI4MzZhZTcwZGNlZTBmMzVhYWMzMDM3Ng==
+#EXTINF:5,
+https://chunk-gce-us-east1-production.fastly.mux.com/v1/chunk/NXr6yADAS7epB6WRr00jIht4Gm3CeDkGoyZhzGm00VCJDtB0200ulxJd5sqA36hXRdtAWkNKOj5Z02vpgjGaRYAB7xo2urvz7qaGUzZuaoIYsfGA/2.ts?skid=default&signature=NjBkMThhNzBfYjQ1OTUyNWUwY2Y2YWVkMDhhM2YyNWU3MzEyMzBkMGNkYWU3MDk5ZTdlODNkZTk5ODU4NDc4OGZkNDM4Y2VmNQ==
+#EXTINF:5,
+https://chunk-gce-us-east1-production.fastly.mux.com/v1/chunk/BaOZDfpxU1fJ52aw01dk4FcHQzponLGEnjcU8FuWEPXm8afcFps5hH01Motws9Bh6ex2VOoLK01LiiItmJN01DyQ02sjkRyPd7Zy4mKrXxgzTqu8/3.ts?skid=default&signature=NjBkMThhNzBfODFmNzlmMWQ3ZjU1MWJiMTMyNzJlNWQ2ZmFjY2ZjNjFlOGM5YTZmMTk5ODQ3NzZlNjc3MDU3NWJhOGE3ZmNmMw==
+#EXTINF:3.8571670000000005,
+https://chunk-gce-us-east1-production.fastly.mux.com/v1/chunk/oClDqJevGR4D4E5dPJhG4RxbCNdBry7G5UOXV1wZSSNk1BDLBIQIFAOw4VCZrCBUWSAKmH2Rb7BpjnE59xBuTGswBWDlZ2ofS01hcUm5A8Ps/4.ts?skid=default&signature=NjBkMThhNzBfZDM4ODJkYjhhMWJiZDgxZmRkMTdhYzJiMmMzZGI2MDQzY2Y0NWNmZWExZWE3ZTM2NDdmNGE4OWU1N2E0ZTVjMg==
+#EXT-X-ENDLIST
