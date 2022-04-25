@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_audio_non_cdn",NAME="OriginalAudio",AUTOSELECT=YES,DEFAULT=YES,URI="/Users/sunytyagi/Downloads/LocalHLSFiles/Video1/audio.m3u"
+#EXT-X-STREAM-INF:BANDWIDTH=624958,AVERAGE-BANDWIDTH=568544,RESOLUTION=240x426,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="group_audio_non_cdn"
+/Users/sunytyagi/Downloads/LocalHLSFiles/Video1/video.m3u
