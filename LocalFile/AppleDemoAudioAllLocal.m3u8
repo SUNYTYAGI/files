@@ -6,8 +6,8 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXTINF:5.99467,	
 #EXT-X-BITRATE:163
-https://github.com/SUNYTYAGI/files/blob/master/LocalFile/fileSequence0.aac?raw=true
+https://raw.githubusercontent.com/SUNYTYAGI/files/master/LocalFile/fileSequence0.aac
 #EXTINF:5.99467,	
 #EXT-X-BITRATE:163
-https://github.com/SUNYTYAGI/files/blob/master/LocalFile/fileSequence1.aac?raw=true
+https://raw.githubusercontent.com/SUNYTYAGI/files/master/LocalFile/fileSequence1.aac
 #EXT-X-ENDLIST
