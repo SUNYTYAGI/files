@@ -6,8 +6,8 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXTINF:6.00000,	
 #EXT-X-BITRATE:2060
-https://github.com/SUNYTYAGI/files/blob/master/LocalFile/fileSequence0.ts?raw=true
+https://raw.githubusercontent.com/SUNYTYAGI/files/master/LocalFile/fileSequence1.ts
 #EXTINF:6.00000,	
 #EXT-X-BITRATE:2063
-https://github.com/SUNYTYAGI/files/blob/master/LocalFile/fileSequence1.ts?raw=true
+https://raw.githubusercontent.com/SUNYTYAGI/files/master/LocalFile/fileSequence1.ts
 #EXT-X-ENDLIST
